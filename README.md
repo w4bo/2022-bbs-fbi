@@ -6,7 +6,7 @@ Referente: <giorgia.dipancrazio@bbs.unibo.it>
 
 ## Whoami 
 
-Matteo Francia, PhD.
+Matteo Francia, Ph.D. in Computer Science and Engineering
 
 ## This course
 
