@@ -6,7 +6,8 @@ Referente: <giorgia.dipancrazio@bbs.unibo.it>
 
 ## Whoami 
 
-Matteo Francia, Ph.D. in Computer Science and Engineering
+- Matteo Francia, Ph.D. in Computer Science and Engineering
+- Enrico Gallinucci, Ph.D. in Computer Science and Engineering
 
 ## This course
 
@@ -16,7 +17,11 @@ Matteo Francia, Ph.D. in Computer Science and Engineering
 
 ## Programme
 
-| When | What |
-| -    | -    |
-| Day 1 (4h) | Introduction to BI and Data Warehouse |
-| Day 2 (4h)  | From BI to analytics, assortment case study, location intelligence |
+| When | Who | What |
+| -    | -    | -    |
+| Day 1 (March 1, 2022; 14.00 - 18.00) | Matteo Francia | Introduction to BI and Data Warehouse |
+| Day 2 (March 3, 2022; 14.00 - 18.00)  | Matteo Francia | From BI to analytics, assortment case study, location intelligence |
+| Day 3 (March 7, 2022; 14.00 - 18.00)  | Enrico Gallinucci | User generated content and social BI |
+| Day 4 (March 9, 2022; 14.00 - 18.00)  | Enrico Gallinucci | Self-sevice BI, Tableau to execute OLAP queries on the Data Warehouse |
+| Day 5 (March 18) | IConsulting | Bringing the learned techniques together into real case studies |
+| Day 6 (March 25; 10.00 - 13.00) | MF + EG | Exam |
