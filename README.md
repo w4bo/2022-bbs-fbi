@@ -4,7 +4,7 @@
 
 Referente: <giorgia.dipancrazio@bbs.unibo.it>
 
-## Whoami 
+## `whoami`
 
 - Matteo Francia, Ph.D. in Computer Science and Engineering
 - Enrico Gallinucci, Ph.D. in Computer Science and Engineering
