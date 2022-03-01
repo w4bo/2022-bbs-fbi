@@ -24,5 +24,5 @@
 | Day 2 (March 3, 2022; 14.00 - 18.00)  | Matteo Francia | From BI to analytics, assortment case study, location intelligence |
 | Day 3 (March 7, 2022; 14.00 - 18.00)  | Enrico Gallinucci | User generated content and social BI |
 | Day 4 (March 9, 2022; 14.00 - 18.00)  | Enrico Gallinucci | Self-sevice BI, Tableau to execute OLAP queries on the Data Warehouse |
-| Day 5 (March 18) | IConsulting | Bringing the learned techniques together into real case studies |
+| Day 5 (March 18, 2022) | IConsulting | Bringing the learned techniques together into real case studies |
 | Day 6 (March 25, 2022; 10.00 - 13.00) | MF + EG | Exam |
