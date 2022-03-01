@@ -2,7 +2,8 @@
 
 [Data Marketing and Analytics](https://www.bbs.unibo.eu/master-fulltime/data-marketing-and-analytics)
 
-Referente: <giorgia.dipancrazio@bbs.unibo.it>
+- Access this content at: https://github.com/w4bo/2022-bbs-fbi
+- Referente: <giorgia.dipancrazio@bbs.unibo.it>
 
 ## `whoami`
 
