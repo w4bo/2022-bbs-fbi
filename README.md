@@ -19,4 +19,4 @@ Matteo Francia, PhD.
 | When | What |
 | -    | -    |
 | Day 1 (4h) | Introduction to BI and Data Warehouse |
-| Day 2 (4)  | From BI to analytics, assortment case study, location intelligence |
+| Day 2 (4h)  | From BI to analytics, assortment case study, location intelligence |
