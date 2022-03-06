@@ -26,3 +26,11 @@
 | Day 4 (March 9, 2022; 14.00 - 18.00)  | Enrico Gallinucci | Self-sevice BI, Tableau to execute OLAP queries on the Data Warehouse |
 | Day 5 (March 18, 2022) | IConsulting | Bringing the learned techniques together into real case studies |
 | Day 6 (March 25, 2022; 10.00 - 13.00) | MF + EG | Exam |
+
+## Software
+
+The lecture on Day 4 requires Tableau Desktop to be installed.
+
+- Download [here](https://www.tableau.com/products/desktop/download?signin=academic); installation procedure is trivial.
+- A free 1-year student license can be requested [here](https://www.tableau.com/it-it/academic/students#form); alternatively, a free 1-year license will be given during the course.
+- Material to be used with Tableau is in the ```tableau``` folder of this repo.
